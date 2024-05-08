@@ -6,7 +6,7 @@
     </p>
        
 [![facebook](images/facebook-32.png)](https://www.facebook.com/walkin.logic/)
-[![whatsapp](images/whatsapp-32.png)](https://wa.me/c/00923235696050) 
+[![whatsapp](images/whatsapp-32.png)](https://wa.me/00923235696050) 
  
 
 </div>
